@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments (Môi trường ảo)
+venv/
+env/
+.env
+
+# IDE / Editor settings (Cấu hình của trình code)
+.vscode/
+.idea/
+
+# OS specific (File rác của hệ điều hành)
+.DS_Store
+Thumbs.db
+
+# Nếu data quá nặng (>100MB) thì bỏ comment dòng dưới để không up lên
+# data/*.csv
