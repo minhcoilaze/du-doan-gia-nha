@@ -1,4 +1,4 @@
-# Dự Án Phân Tích Dữ Liệu (Tên dự án của bạn)
+# Dự Án Dự Đoán Giá Nhà
 
 Dự án này sử dụng Python để phân tích và xây dựng mô hình học máy (Machine Learning) dựa trên bộ dữ liệu được cung cấp.
 
